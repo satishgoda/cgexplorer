@@ -1,0 +1,29 @@
+@startuml
+
+class Origin {
+    float x
+    float y
+}
+
+class Extents {
+    float width
+    float height
+}
+
+class Region {
+    Origin o
+    Extents e
+
+    Children c
+
+    void subdivide()
+}
+
+class SubRegions {
+    List sr
+}
+
+Square --o Origin
+Square --o Extents
+
+@enduml
