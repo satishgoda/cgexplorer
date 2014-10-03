@@ -7,3 +7,4 @@
 * http://help.autodesk.com/view/MAYAUL/2015/ENU/?guid=__files_Maya_API_introduction_htm
 * http://www.autodesk.com/products/maya/features/all/gallery-view
 * http://usa.autodesk.com/adsk/servlet/item?siteID=123112&id=16707768
+* http://download.autodesk.com/media/adn/DevTV_Introduction_to_Maya_Dependency_Graph_Programming/DevTV%20-%20Introduction%20to%20Maya%20Dependency%20Graph%20Programming.html
